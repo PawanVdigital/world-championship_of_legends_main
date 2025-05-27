@@ -1,0 +1,7 @@
+/* src/styles/Layout.module.css */
+.layoutWrapper {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
